@@ -6,5 +6,6 @@ Follow the instructions the code gives while running
 Currently Operators are :- 
 - Addition
 - Multiplication
-- Substraction \n
+- Substraction 
+
 ( Over 2 Matrix Inputted by the user )
